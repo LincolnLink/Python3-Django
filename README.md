@@ -43,6 +43,30 @@ python é interpretada.
 
 - Para digitar um comentario deve usar o "#"
 
+- Para comentar varias linhas se usa 3 aspas no inicio até o final da linha.
+	
+
+### Print
+
+- sep: são parametros que recebe valor, para poder separar o texto.
+
+- end: recebe um valor que é exibido no final.
+
+- exemplo: 
+
+<blockquete>
+
+			print('824', '176', '070', sep='.', end='-18')
+
+</blockquete>
+
+### 
+
+
+
+
+
+
 # ----------- Estudando Django -----------------
 
 ### Instalando o Django
