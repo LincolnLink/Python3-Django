@@ -60,10 +60,15 @@ python é interpretada.
 
 </blockquete>
 
-### 
+### str - string
 
+- São texto dentro de aspas, o python não é tipado, mas reconhece uma string.
 
+- /n quebra a linha
 
+- pode por aspas simples dentro de aspas dupla.
+
+- 
 
 
 
